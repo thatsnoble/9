@@ -949,6 +949,9 @@ img,video {
     transition-timing-function: linear
 }
 
+iframe {
+    height: 100%;
+}
 .calendly-inline-widget {
     height: 720px !important;
 }
