@@ -950,7 +950,7 @@ img,video {
 }
 
 iframe {
-    height: 100%;
+    height: 150%;
 }
 .calendly-inline-widget {
     height: 720px !important;
