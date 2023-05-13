@@ -13276,13 +13276,12 @@ xi.createRoot(document.getElementById("root")).render(m(Ic.StrictMode, {
             })
         })
     })
-	document.addEventListener("DOMContentLoaded", function() {
-  // Code to be executed after the DOM has finished loading
-  var calendlyDiv = document.getElementById("calendly-div");
-  if (calendlyDiv) {
-    Calendly.initInlineWidget({
-      url: "https://calendly.com/your-calendar-link",
-      parentElement: "calendly-div"
+Calendly.initInlineWidget({
+ url: 'https://calendly.com/fluxeva',
+ parentElement: document.getElementById('calendly-div'),
+ prefill: {},
+ utm: {}
+});
     });
   }
 });
