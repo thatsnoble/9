@@ -12492,7 +12492,7 @@ const dp = ay({
                 })]
             }), m("img", {
                 alt: "",
-                className: "rounded-[10px] border-2 border-[#C718C2] content-[url('/hermes.png')]"
+                className: "rounded-[10px] border-2 border-[#C718C2] content-[url('/issa.png')]"
             })]
         }), P("div", {
             className: "relative flex max-lg:flex-col items-center justify-between w-full gap-y-[35px]",
