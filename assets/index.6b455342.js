@@ -12466,6 +12466,25 @@ const dp = ay({
         })]
     })
 }
+, Sy = ()=>P("div", {
+12878
+    className: "flex flex-col items-center lg:pt-[200px] md:pt-[150px] sm:pt-[125px] pt-[125px] px-[50px] md:px-[75px]",
+12879
+    children: [m("div", {
+12880
+        className: "absolute top-[-173px] right-[250px] w-[400px] h-[400px] rounded-full bg-gradient gradient-blur max-sm:hidden"
+12881
+    }), m("div", {
+12882
+        className: "absolute bottom-0 left-[-97px] w-[400px] h-[400px] rounded-full bg-gradient gradient-blur max-sm:hidden"
+12883
+    }), m("div", {
+12884
+        className: "absolute top-[2000px] left-[-50px] w-[400px] h-[400px] rounded-full bg-gradient gradient-blur max-sm:hidden"
+12885
+    }), m("div", {
+12886
+        className: "absolute top-[4000px] left-[-200px] w-[400px] h-[400px] rounded-full bg-gradient gradient-blur max-sm:hidden"
     }), P("div", {
         id: "founder",
         className: "relative flex flex-col items-center pt-[100px] md:pt-[235px] gap-[35px]",
